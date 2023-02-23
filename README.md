@@ -6,3 +6,4 @@ MY HARD SKILLS
 •	Protocollo TCP/IP     •	Malware Analysis  • Vulnerability Scanning    
 •	Penetration Testing   •	Networking   • Security Monitoring (SIEM e SOC) •	Analisi di LOG/Pacchetti •	Firewall, IPS/IDS, WAF    
 •	Database SQL          • Recovery Disaster e Response Action   
+[My Linkedin profile URL](https://www.linkedin.com/in/gabriele-di-giampietro-35a00a265/)
