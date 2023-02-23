@@ -4,6 +4,6 @@
 ## MY HARD SKILLS 🖥️     
 •	Python •	C/C++       •	Mac OS X •	Microsoft Windows •	Linux   
 •	Protocollo TCP/IP     •	Malware Analysis  • Vulnerability Scanning    
-•	Penetration Testing   •	Networking   • Security Monitoring (SIEM e SOC) •	Analisi di LOG/Pacchetti •	Firewall, IPS/IDS, WAF    
-•	Database SQL          • Recovery Disaster e Response Action   
+•	Penetration Testing   •	Networking   • Security Monitoring (SIEM and SOC) •	Firewall, IPS/IDS and WAF    
+•	Database SQL          • Recovery Disaster and Response Action   
 [My Linkedin profile URL](https://www.linkedin.com/in/gabriele-di-giampietro-35a00a265/)
